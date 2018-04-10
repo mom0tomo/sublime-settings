@@ -1,19 +1,14 @@
 {
   "always_show_minimap_viewport": true,
   "bold_folder_labels": true,
-  "color_scheme": "Packages/User/SublimeLinter/Monokai (SL).tmTheme",
   "close_windows_when_empty": true,
   "draw_white_space": "all",
   "trim_automatic_white_space": true,
   "enable_tab_scrolling": false,
   "margin": 2,
   "line_padding_bottom": -1,
-  "font_options":
-  [
-    "gray_antialias"
-  ],
   "fallback_encoding": "UTF-8",
-  "font_size": 11,
+  "font_size": 12,
   "line_padding_top": 3,
   "format_backend": "both",
   "highlight_line": true,
@@ -28,7 +23,6 @@
   "show_encoding": true,
   "show_line_endings": true,
   "tab_size": 2,
-  "translate_tabs_to_spaces": false,
   "trim_trailing_white_space_on_save": false,
   "word_wrap": true,
   "overlay_scroll_bars": "enabled"
